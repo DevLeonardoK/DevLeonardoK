@@ -21,9 +21,3 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-
-<br/>
-
-## 📊 Stats
-  <img align="center" alt="java" src="https://github-readme-stats.vercel.app/api?username=devleonardok&show_icons=true&theme=gruvbox"/>
-
