@@ -4,8 +4,8 @@ Oracle Developer · Backend · Brazil
 
 ---
 
-Focused on data-intensive systems, database architecture, and backend automation.
-Working primarily with Oracle ecosystems, PL/SQL, and Python-based tooling.
+Focused on database architecture, cloud environments, and backend automation.
+I develop containerized Lambda functions and work with Vector Search for AI-powered data retrieval.
 
 ---
 
