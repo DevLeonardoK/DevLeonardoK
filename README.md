@@ -22,14 +22,6 @@ Engenheiro de dados focado em transformar processos custosos em pipelines enxuto
 
 ---
 
-**Certificações**
-
-- Oracle Cloud Infrastructure Foundations Associate
-- Associate Data Engineer @ Databricks
-- Data Transformation with Spark SQL @ Databricks
-
----
-
 **Contato**
 
 [LinkedIn](https://www.linkedin.com/in/devleonardok) · [Gmail](mailto:devleonardok@gmail.com)
